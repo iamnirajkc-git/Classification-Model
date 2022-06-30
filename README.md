@@ -1,2 +1,2 @@
 # Classification-Model
-Building a Classification Model for the Iris data set 
+Machine Learning in Python: Building a Classification Model
